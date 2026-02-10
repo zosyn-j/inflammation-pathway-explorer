@@ -1,0 +1,1676 @@
+[
+  {
+    "id": 1,
+    "source": "NLRP3",
+    "target": "ASC",
+    "type": "activates"
+  },
+  {
+    "id": 2,
+    "source": "NLRP3",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 3,
+    "source": "NLRP3",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 4,
+    "source": "NLRP3",
+    "target": "IL18",
+    "type": "activates"
+  },
+  {
+    "id": 5,
+    "source": "NLRP3",
+    "target": "GasderminD",
+    "type": "activates"
+  },
+  {
+    "id": 6,
+    "source": "NLRP1",
+    "target": "ASC",
+    "type": "activates"
+  },
+  {
+    "id": 7,
+    "source": "NLRP1",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 8,
+    "source": "NLRP1",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 9,
+    "source": "NLRP1",
+    "target": "IL18",
+    "type": "activates"
+  },
+  {
+    "id": 10,
+    "source": "NLRC4",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 11,
+    "source": "NLRC4",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 12,
+    "source": "NLRC4",
+    "target": "GasderminD",
+    "type": "activates"
+  },
+  {
+    "id": 13,
+    "source": "NLRP6",
+    "target": "ASC",
+    "type": "activates"
+  },
+  {
+    "id": 14,
+    "source": "NLRP6",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 15,
+    "source": "AIM2",
+    "target": "ASC",
+    "type": "activates"
+  },
+  {
+    "id": 16,
+    "source": "AIM2",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 17,
+    "source": "AIM2",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 18,
+    "source": "AIM2",
+    "target": "IL18",
+    "type": "activates"
+  },
+  {
+    "id": 19,
+    "source": "Pyrin",
+    "target": "ASC",
+    "type": "activates"
+  },
+  {
+    "id": 20,
+    "source": "Pyrin",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 21,
+    "source": "Pyrin",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 22,
+    "source": "ASC",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 23,
+    "source": "Caspase1",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 24,
+    "source": "Caspase1",
+    "target": "IL18",
+    "type": "activates"
+  },
+  {
+    "id": 25,
+    "source": "Caspase1",
+    "target": "GasderminD",
+    "type": "activates"
+  },
+  {
+    "id": 26,
+    "source": "Caspase4",
+    "target": "GasderminD",
+    "type": "activates"
+  },
+  {
+    "id": 27,
+    "source": "Caspase4",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 28,
+    "source": "Caspase5",
+    "target": "GasderminD",
+    "type": "activates"
+  },
+  {
+    "id": 29,
+    "source": "GasderminD",
+    "target": "NINJ1",
+    "type": "activates"
+  },
+  {
+    "id": 30,
+    "source": "TLR1",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 31,
+    "source": "TLR2",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 32,
+    "source": "TLR3",
+    "target": "TRIF",
+    "type": "activates"
+  },
+  {
+    "id": 33,
+    "source": "TLR3",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 34,
+    "source": "TLR3",
+    "target": "IFNbeta",
+    "type": "activates"
+  },
+  {
+    "id": 35,
+    "source": "TLR4",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 36,
+    "source": "TLR4",
+    "target": "TRIF",
+    "type": "activates"
+  },
+  {
+    "id": 37,
+    "source": "TLR4",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 38,
+    "source": "TLR4",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 39,
+    "source": "TLR5",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 40,
+    "source": "TLR6",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 41,
+    "source": "TLR7",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 42,
+    "source": "TLR7",
+    "target": "IRF7",
+    "type": "activates"
+  },
+  {
+    "id": 43,
+    "source": "TLR7",
+    "target": "IFNalpha",
+    "type": "activates"
+  },
+  {
+    "id": 44,
+    "source": "TLR8",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 45,
+    "source": "TLR8",
+    "target": "TNFalpha",
+    "type": "activates"
+  },
+  {
+    "id": 46,
+    "source": "TLR9",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 47,
+    "source": "TLR9",
+    "target": "IRF7",
+    "type": "activates"
+  },
+  {
+    "id": 48,
+    "source": "TLR9",
+    "target": "IFNalpha",
+    "type": "activates"
+  },
+  {
+    "id": 49,
+    "source": "NOD1",
+    "target": "RIPK2",
+    "type": "activates"
+  },
+  {
+    "id": 50,
+    "source": "NOD2",
+    "target": "RIPK2",
+    "type": "activates"
+  },
+  {
+    "id": 51,
+    "source": "STING",
+    "target": "TBK1",
+    "type": "activates"
+  },
+  {
+    "id": 52,
+    "source": "STING",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 53,
+    "source": "STING",
+    "target": "IFNbeta",
+    "type": "activates"
+  },
+  {
+    "id": 54,
+    "source": "STING",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 55,
+    "source": "cGAS",
+    "target": "STING",
+    "type": "activates"
+  },
+  {
+    "id": 56,
+    "source": "RIG_I",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 57,
+    "source": "RIG_I",
+    "target": "IFNbeta",
+    "type": "activates"
+  },
+  {
+    "id": 58,
+    "source": "MDA5",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 59,
+    "source": "MDA5",
+    "target": "IFNbeta",
+    "type": "activates"
+  },
+  {
+    "id": 60,
+    "source": "CLEC7A",
+    "target": "SYK",
+    "type": "activates"
+  },
+  {
+    "id": 61,
+    "source": "CLEC7A",
+    "target": "CARD9",
+    "type": "activates"
+  },
+  {
+    "id": 62,
+    "source": "CLEC4E",
+    "target": "SYK",
+    "type": "activates"
+  },
+  {
+    "id": 63,
+    "source": "JAK1",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 64,
+    "source": "JAK1",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 65,
+    "source": "JAK1",
+    "target": "STAT6",
+    "type": "activates"
+  },
+  {
+    "id": 66,
+    "source": "JAK2",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 67,
+    "source": "JAK2",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 68,
+    "source": "JAK3",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 69,
+    "source": "TYK2",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 70,
+    "source": "TYK2",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 71,
+    "source": "TYK2",
+    "target": "STAT4",
+    "type": "activates"
+  },
+  {
+    "id": 72,
+    "source": "STAT3",
+    "target": "SOCS3",
+    "type": "activates"
+  },
+  {
+    "id": 73,
+    "source": "STAT4",
+    "target": "IFNgamma",
+    "type": "activates"
+  },
+  {
+    "id": 74,
+    "source": "STAT5A",
+    "target": "Foxp3",
+    "type": "activates"
+  },
+  {
+    "id": 75,
+    "source": "STAT6",
+    "target": "IL13",
+    "type": "activates"
+  },
+  {
+    "id": 76,
+    "source": "STAT6",
+    "target": "GATA3",
+    "type": "activates"
+  },
+  {
+    "id": 77,
+    "source": "NFkB_p65",
+    "target": "TNFalpha",
+    "type": "activates"
+  },
+  {
+    "id": 78,
+    "source": "NFkB_p65",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 79,
+    "source": "NFkB_p65",
+    "target": "IL6",
+    "type": "activates"
+  },
+  {
+    "id": 80,
+    "source": "NFkB_p65",
+    "target": "COX2",
+    "type": "activates"
+  },
+  {
+    "id": 81,
+    "source": "NFkB_p65",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 82,
+    "source": "cRel",
+    "target": "IL2",
+    "type": "activates"
+  },
+  {
+    "id": 83,
+    "source": "TAK1",
+    "target": "IKKbeta",
+    "type": "activates"
+  },
+  {
+    "id": 84,
+    "source": "TAK1",
+    "target": "p38_MAPK",
+    "type": "activates"
+  },
+  {
+    "id": 85,
+    "source": "NIK",
+    "target": "IKKalpha",
+    "type": "activates"
+  },
+  {
+    "id": 86,
+    "source": "MyD88",
+    "target": "IRAK4",
+    "type": "activates"
+  },
+  {
+    "id": 87,
+    "source": "MyD88",
+    "target": "IRAK1",
+    "type": "activates"
+  },
+  {
+    "id": 88,
+    "source": "MyD88",
+    "target": "TRAF6",
+    "type": "activates"
+  },
+  {
+    "id": 89,
+    "source": "TRIF",
+    "target": "RIPK1",
+    "type": "activates"
+  },
+  {
+    "id": 90,
+    "source": "TRIF",
+    "target": "TRAF3",
+    "type": "activates"
+  },
+  {
+    "id": 91,
+    "source": "TRIF",
+    "target": "TBK1",
+    "type": "activates"
+  },
+  {
+    "id": 92,
+    "source": "TRIF",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 93,
+    "source": "IRAK1",
+    "target": "TRAF6",
+    "type": "activates"
+  },
+  {
+    "id": 94,
+    "source": "IRAK4",
+    "target": "IRAK1",
+    "type": "activates"
+  },
+  {
+    "id": 95,
+    "source": "IRAK4",
+    "target": "TRAF6",
+    "type": "activates"
+  },
+  {
+    "id": 96,
+    "source": "TRAF2",
+    "target": "cIAP1",
+    "type": "activates"
+  },
+  {
+    "id": 97,
+    "source": "TRAF2",
+    "target": "cIAP2",
+    "type": "activates"
+  },
+  {
+    "id": 98,
+    "source": "TRAF3",
+    "target": "TBK1",
+    "type": "activates"
+  },
+  {
+    "id": 99,
+    "source": "TRAF3",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 100,
+    "source": "TRAF6",
+    "target": "TAK1",
+    "type": "activates"
+  },
+  {
+    "id": 101,
+    "source": "TRAF6",
+    "target": "IKKbeta",
+    "type": "activates"
+  },
+  {
+    "id": 102,
+    "source": "p38_MAPK",
+    "target": "MK2",
+    "type": "activates"
+  },
+  {
+    "id": 103,
+    "source": "ASK1",
+    "target": "p38_MAPK",
+    "type": "activates"
+  },
+  {
+    "id": 104,
+    "source": "PI3Kdelta",
+    "target": "BTK",
+    "type": "activates"
+  },
+  {
+    "id": 105,
+    "source": "AKT1",
+    "target": "mTORC1",
+    "type": "activates"
+  },
+  {
+    "id": 106,
+    "source": "SYK",
+    "target": "BTK",
+    "type": "activates"
+  },
+  {
+    "id": 107,
+    "source": "TBK1",
+    "target": "IRF3",
+    "type": "activates"
+  },
+  {
+    "id": 108,
+    "source": "TBK1",
+    "target": "IFNbeta",
+    "type": "activates"
+  },
+  {
+    "id": 109,
+    "source": "RIPK1",
+    "target": "RIPK3",
+    "type": "activates"
+  },
+  {
+    "id": 110,
+    "source": "RIPK1",
+    "target": "NFkB_p65",
+    "type": "activates"
+  },
+  {
+    "id": 111,
+    "source": "RIPK1",
+    "target": "Caspase8",
+    "type": "activates"
+  },
+  {
+    "id": 112,
+    "source": "RIPK2",
+    "target": "TAK1",
+    "type": "activates"
+  },
+  {
+    "id": 113,
+    "source": "RIPK2",
+    "target": "p38_MAPK",
+    "type": "activates"
+  },
+  {
+    "id": 114,
+    "source": "RIPK3",
+    "target": "MLKL",
+    "type": "activates"
+  },
+  {
+    "id": 115,
+    "source": "MLKL",
+    "target": "NINJ1",
+    "type": "activates"
+  },
+  {
+    "id": 116,
+    "source": "PKCtheta",
+    "target": "AP1",
+    "type": "activates"
+  },
+  {
+    "id": 117,
+    "source": "IL1alpha",
+    "target": "IL1R1",
+    "type": "activates"
+  },
+  {
+    "id": 118,
+    "source": "IL1beta",
+    "target": "IL1R1",
+    "type": "activates"
+  },
+  {
+    "id": 119,
+    "source": "IL6",
+    "target": "IL6R",
+    "type": "activates"
+  },
+  {
+    "id": 120,
+    "source": "IL6",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 121,
+    "source": "IL6",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 122,
+    "source": "IL6",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 123,
+    "source": "IL10",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 124,
+    "source": "IL12",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 125,
+    "source": "IL12",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 126,
+    "source": "IL12",
+    "target": "STAT4",
+    "type": "activates"
+  },
+  {
+    "id": 127,
+    "source": "IL12",
+    "target": "IFNgamma",
+    "type": "activates"
+  },
+  {
+    "id": 128,
+    "source": "IL13",
+    "target": "IL4Ra",
+    "type": "activates"
+  },
+  {
+    "id": 129,
+    "source": "IL13",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 130,
+    "source": "IL13",
+    "target": "STAT6",
+    "type": "activates"
+  },
+  {
+    "id": 131,
+    "source": "IL17A",
+    "target": "IL17RA",
+    "type": "activates"
+  },
+  {
+    "id": 132,
+    "source": "IL17A",
+    "target": "IL17RC",
+    "type": "activates"
+  },
+  {
+    "id": 133,
+    "source": "IL17F",
+    "target": "IL17RA",
+    "type": "activates"
+  },
+  {
+    "id": 134,
+    "source": "IL17F",
+    "target": "IL17RC",
+    "type": "activates"
+  },
+  {
+    "id": 135,
+    "source": "IL18",
+    "target": "IFNgamma",
+    "type": "activates"
+  },
+  {
+    "id": 136,
+    "source": "IL22",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 137,
+    "source": "IL23",
+    "target": "IL23R",
+    "type": "activates"
+  },
+  {
+    "id": 138,
+    "source": "IL23",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 139,
+    "source": "IL23",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 140,
+    "source": "IL23",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 141,
+    "source": "IL33",
+    "target": "ST2",
+    "type": "activates"
+  },
+  {
+    "id": 142,
+    "source": "IL33",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 143,
+    "source": "IL36",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 144,
+    "source": "TNFalpha",
+    "target": "TNFR1",
+    "type": "activates"
+  },
+  {
+    "id": 145,
+    "source": "TNFalpha",
+    "target": "TNFR2",
+    "type": "activates"
+  },
+  {
+    "id": 146,
+    "source": "LTalpha",
+    "target": "TNFR1",
+    "type": "activates"
+  },
+  {
+    "id": 147,
+    "source": "LTalpha",
+    "target": "TNFR2",
+    "type": "activates"
+  },
+  {
+    "id": 148,
+    "source": "IFNalpha",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 149,
+    "source": "IFNalpha",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 150,
+    "source": "IFNalpha",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 151,
+    "source": "IFNalpha",
+    "target": "STAT2",
+    "type": "activates"
+  },
+  {
+    "id": 152,
+    "source": "IFNbeta",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 153,
+    "source": "IFNbeta",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 154,
+    "source": "IFNbeta",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 155,
+    "source": "IFNgamma",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 156,
+    "source": "IFNgamma",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 157,
+    "source": "IFNgamma",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 158,
+    "source": "IFNlambda",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 159,
+    "source": "IFNlambda",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 160,
+    "source": "TSLP",
+    "target": "TSLPR",
+    "type": "activates"
+  },
+  {
+    "id": 161,
+    "source": "TSLP",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 162,
+    "source": "TSLP",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 163,
+    "source": "GMCSF",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 164,
+    "source": "MCSF",
+    "target": "CSF1R",
+    "type": "activates"
+  },
+  {
+    "id": 165,
+    "source": "GCSF",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 166,
+    "source": "GCSF",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 167,
+    "source": "CXCL8",
+    "target": "CXCR1",
+    "type": "activates"
+  },
+  {
+    "id": 168,
+    "source": "CXCL8",
+    "target": "CXCR2",
+    "type": "activates"
+  },
+  {
+    "id": 169,
+    "source": "CCL2",
+    "target": "CCR2",
+    "type": "activates"
+  },
+  {
+    "id": 170,
+    "source": "CXCL10",
+    "target": "CXCR3",
+    "type": "activates"
+  },
+  {
+    "id": 171,
+    "source": "CCL17",
+    "target": "CCR4",
+    "type": "activates"
+  },
+  {
+    "id": 172,
+    "source": "CCL22",
+    "target": "CCR4",
+    "type": "activates"
+  },
+  {
+    "id": 173,
+    "source": "IL1R1",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 174,
+    "source": "IL1R1",
+    "target": "IRAK4",
+    "type": "activates"
+  },
+  {
+    "id": 175,
+    "source": "IL1R1",
+    "target": "NFkB_p65",
+    "type": "activates"
+  },
+  {
+    "id": 176,
+    "source": "IL6R",
+    "target": "gp130",
+    "type": "activates"
+  },
+  {
+    "id": 177,
+    "source": "IL6R",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 178,
+    "source": "IL6R",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 179,
+    "source": "IL6R",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 180,
+    "source": "gp130",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 181,
+    "source": "gp130",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 182,
+    "source": "gp130",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 183,
+    "source": "IL4Ra",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 184,
+    "source": "IL4Ra",
+    "target": "JAK3",
+    "type": "activates"
+  },
+  {
+    "id": 185,
+    "source": "IL4Ra",
+    "target": "STAT6",
+    "type": "activates"
+  },
+  {
+    "id": 186,
+    "source": "IL13Ra1",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 187,
+    "source": "IL13Ra1",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 188,
+    "source": "IL13Ra1",
+    "target": "STAT6",
+    "type": "activates"
+  },
+  {
+    "id": 189,
+    "source": "IL17RA",
+    "target": "TRAF6",
+    "type": "activates"
+  },
+  {
+    "id": 190,
+    "source": "IL23R",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 191,
+    "source": "IL23R",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 192,
+    "source": "IL23R",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 193,
+    "source": "IL23R",
+    "target": "STAT4",
+    "type": "activates"
+  },
+  {
+    "id": 194,
+    "source": "ST2",
+    "target": "MyD88",
+    "type": "activates"
+  },
+  {
+    "id": 195,
+    "source": "ST2",
+    "target": "IRAK4",
+    "type": "activates"
+  },
+  {
+    "id": 196,
+    "source": "TSLPR",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 197,
+    "source": "TSLPR",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 198,
+    "source": "TNFR1",
+    "target": "RIPK1",
+    "type": "activates"
+  },
+  {
+    "id": 199,
+    "source": "TNFR1",
+    "target": "NFkB_p65",
+    "type": "activates"
+  },
+  {
+    "id": 200,
+    "source": "TNFR2",
+    "target": "TRAF2",
+    "type": "activates"
+  },
+  {
+    "id": 201,
+    "source": "IFNAR1",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 202,
+    "source": "IFNAR1",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 203,
+    "source": "IFNAR2",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 204,
+    "source": "IFNAR2",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 205,
+    "source": "IFNAR2",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 206,
+    "source": "IFNAR2",
+    "target": "STAT2",
+    "type": "activates"
+  },
+  {
+    "id": 207,
+    "source": "IFNGR1",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 208,
+    "source": "IFNGR1",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 209,
+    "source": "IFNGR1",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 210,
+    "source": "IL12RB1",
+    "target": "TYK2",
+    "type": "activates"
+  },
+  {
+    "id": 211,
+    "source": "IL12RB2",
+    "target": "JAK2",
+    "type": "activates"
+  },
+  {
+    "id": 212,
+    "source": "IL12RB2",
+    "target": "STAT4",
+    "type": "activates"
+  },
+  {
+    "id": 213,
+    "source": "RORgammat",
+    "target": "IL17A",
+    "type": "activates"
+  },
+  {
+    "id": 214,
+    "source": "RORgammat",
+    "target": "IL17F",
+    "type": "activates"
+  },
+  {
+    "id": 215,
+    "source": "RORgammat",
+    "target": "IL22",
+    "type": "activates"
+  },
+  {
+    "id": 216,
+    "source": "RORgammat",
+    "target": "IL23R",
+    "type": "activates"
+  },
+  {
+    "id": 217,
+    "source": "Tbet",
+    "target": "IFNgamma",
+    "type": "activates"
+  },
+  {
+    "id": 218,
+    "source": "Tbet",
+    "target": "CXCR3",
+    "type": "activates"
+  },
+  {
+    "id": 219,
+    "source": "GATA3",
+    "target": "IL13",
+    "type": "activates"
+  },
+  {
+    "id": 220,
+    "source": "Foxp3",
+    "target": "CTLA4",
+    "type": "activates"
+  },
+  {
+    "id": 221,
+    "source": "Foxp3",
+    "target": "IL10",
+    "type": "activates"
+  },
+  {
+    "id": 222,
+    "source": "IRF3",
+    "target": "IFNbeta",
+    "type": "activates"
+  },
+  {
+    "id": 223,
+    "source": "IRF5",
+    "target": "IFNalpha",
+    "type": "activates"
+  },
+  {
+    "id": 224,
+    "source": "IRF5",
+    "target": "TNFalpha",
+    "type": "activates"
+  },
+  {
+    "id": 225,
+    "source": "IRF5",
+    "target": "IL6",
+    "type": "activates"
+  },
+  {
+    "id": 226,
+    "source": "IRF7",
+    "target": "IFNalpha",
+    "type": "activates"
+  },
+  {
+    "id": 227,
+    "source": "HIF1alpha",
+    "target": "IL1beta",
+    "type": "activates"
+  },
+  {
+    "id": 228,
+    "source": "HMGB1",
+    "target": "TLR4",
+    "type": "activates"
+  },
+  {
+    "id": 229,
+    "source": "HMGB1",
+    "target": "TLR2",
+    "type": "activates"
+  },
+  {
+    "id": 230,
+    "source": "HMGB1",
+    "target": "RAGE",
+    "type": "activates"
+  },
+  {
+    "id": 231,
+    "source": "S100A8",
+    "target": "TLR4",
+    "type": "activates"
+  },
+  {
+    "id": 232,
+    "source": "S100A8",
+    "target": "RAGE",
+    "type": "activates"
+  },
+  {
+    "id": 233,
+    "source": "S100A9",
+    "target": "TLR4",
+    "type": "activates"
+  },
+  {
+    "id": 234,
+    "source": "S100A9",
+    "target": "RAGE",
+    "type": "activates"
+  },
+  {
+    "id": 235,
+    "source": "S100A12",
+    "target": "RAGE",
+    "type": "activates"
+  },
+  {
+    "id": 236,
+    "source": "ATP",
+    "target": "P2X7",
+    "type": "activates"
+  },
+  {
+    "id": 237,
+    "source": "ATP",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 238,
+    "source": "Uric_acid",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 239,
+    "source": "CD40L",
+    "target": "CD40",
+    "type": "activates"
+  },
+  {
+    "id": 240,
+    "source": "OX40L",
+    "target": "OX40",
+    "type": "activates"
+  },
+  {
+    "id": 241,
+    "source": "CD28",
+    "target": "IL2",
+    "type": "activates"
+  },
+  {
+    "id": 242,
+    "source": "CD80",
+    "target": "CD28",
+    "type": "activates"
+  },
+  {
+    "id": 243,
+    "source": "CD80",
+    "target": "CTLA4",
+    "type": "activates"
+  },
+  {
+    "id": 244,
+    "source": "CD86",
+    "target": "CD28",
+    "type": "activates"
+  },
+  {
+    "id": 245,
+    "source": "CD86",
+    "target": "CTLA4",
+    "type": "activates"
+  },
+  {
+    "id": 246,
+    "source": "alpha4beta7",
+    "target": "MAdCAM1",
+    "type": "activates"
+  },
+  {
+    "id": 247,
+    "source": "VLA4",
+    "target": "VCAM1",
+    "type": "activates"
+  },
+  {
+    "id": 248,
+    "source": "LFA1",
+    "target": "ICAM1",
+    "type": "activates"
+  },
+  {
+    "id": 249,
+    "source": "Mac1",
+    "target": "ICAM1",
+    "type": "activates"
+  },
+  {
+    "id": 250,
+    "source": "Complement_C5a",
+    "target": "C5aR1",
+    "type": "activates"
+  },
+  {
+    "id": 251,
+    "source": "NLRP7",
+    "target": "ASC",
+    "type": "activates"
+  },
+  {
+    "id": 252,
+    "source": "NLRP7",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 253,
+    "source": "NLRP12",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 254,
+    "source": "CARD8",
+    "target": "Caspase1",
+    "type": "activates"
+  },
+  {
+    "id": 255,
+    "source": "ZBP1",
+    "target": "RIPK3",
+    "type": "activates"
+  },
+  {
+    "id": 256,
+    "source": "ZBP1",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 257,
+    "source": "CD47",
+    "target": "SIRPa",
+    "type": "activates"
+  },
+  {
+    "id": 258,
+    "source": "CD24",
+    "target": "Siglec10",
+    "type": "activates"
+  },
+  {
+    "id": 259,
+    "source": "PKM2",
+    "target": "HIF1alpha",
+    "type": "activates"
+  },
+  {
+    "id": 260,
+    "source": "SIRT1",
+    "target": "Foxp3",
+    "type": "activates"
+  },
+  {
+    "id": 261,
+    "source": "CD36",
+    "target": "NLRP3",
+    "type": "activates"
+  },
+  {
+    "id": 262,
+    "source": "AnxA1",
+    "target": "FPR2",
+    "type": "activates"
+  },
+  {
+    "id": 263,
+    "source": "FADD",
+    "target": "Caspase8",
+    "type": "activates"
+  },
+  {
+    "id": 264,
+    "source": "AHR",
+    "target": "IL22",
+    "type": "activates"
+  },
+  {
+    "id": 265,
+    "source": "IL27",
+    "target": "STAT1",
+    "type": "activates"
+  },
+  {
+    "id": 266,
+    "source": "IL27",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 267,
+    "source": "IL2",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 268,
+    "source": "IL2",
+    "target": "JAK3",
+    "type": "activates"
+  },
+  {
+    "id": 269,
+    "source": "IL7",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 270,
+    "source": "IL7",
+    "target": "JAK3",
+    "type": "activates"
+  },
+  {
+    "id": 271,
+    "source": "IL21",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 272,
+    "source": "IL21",
+    "target": "JAK3",
+    "type": "activates"
+  },
+  {
+    "id": 273,
+    "source": "IL21",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 274,
+    "source": "OSM",
+    "target": "gp130",
+    "type": "activates"
+  },
+  {
+    "id": 275,
+    "source": "OSM",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 276,
+    "source": "OSM",
+    "target": "STAT3",
+    "type": "activates"
+  },
+  {
+    "id": 277,
+    "source": "LIF",
+    "target": "gp130",
+    "type": "activates"
+  },
+  {
+    "id": 278,
+    "source": "LIF",
+    "target": "JAK1",
+    "type": "activates"
+  },
+  {
+    "id": 279,
+    "source": "LIF",
+    "target": "STAT3",
+    "type": "activates"
+  }
+]
